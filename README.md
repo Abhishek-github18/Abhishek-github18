@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_this_end" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_this_end?logo=twitter&style=for-the-badge" alt="abhi_this_end" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js 13**
-
 - 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **abhishekrock796@gmail.com**
